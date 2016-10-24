@@ -1,0 +1,35 @@
+{
+  "name": "contactlistapp",
+  "version": "1.0.0",
+  "description": "A simple mean project.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.11",
+    "mongojs": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narutoadi/contactlistapp.git"
+  },
+  "keywords": [
+    "mean",
+    "project",
+    "mongo",
+    "express",
+    "node",
+    "angular1"
+  ],
+  "author": "Aditi Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narutoadi/contactlistapp/issues"
+  },
+  "homepage": "https://github.com/narutoadi/contactlistapp#readme"
+}
